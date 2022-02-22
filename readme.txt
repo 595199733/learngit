@@ -10,3 +10,6 @@
 3040
 
 SKTY1740（）
+
+
+git install all
